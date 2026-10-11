@@ -1,0 +1,6 @@
+{
+  "name": "ShopBook Rwanda",
+  "description": "Digital notebook and business manager for small shops in Rwanda tracking sales, debts, inventory, and cash flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
